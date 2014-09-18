@@ -1,0 +1,21 @@
+{
+    "name": "tokenparser-js",
+    "version": "0.0.1",
+    "description": "String Tokenparser",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:viert/tokenparser-js"
+    },
+    "author": {
+        "name": "Pavel Vorobyov",
+        "email": "aquavitale@yandex.ru"
+    },
+    "dependencies": {
+        "should": "~4.0.4"
+    },
+    "license": "MIT"
+}
